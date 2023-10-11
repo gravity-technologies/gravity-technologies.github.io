@@ -136,7 +136,7 @@
   },
   {
     "key": "PHD Capital",
-    "src": "/images/partners/phd-capital-logo.svg",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/phd-capital-logo.svg",
     "name": "PHD Capital",
     "style": {
       "filter": "grayscale(1)"
