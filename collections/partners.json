@@ -141,5 +141,40 @@
     "style": {
       "filter": "grayscale(1)"
     }
+  },
+  {
+    "key": "Selini",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/selini.png",
+    "name": "Selini"
+  },
+  {
+    "key": "Antelpe Technology",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/antelpe-technology.png",
+    "name": "Antelpe Technology"
+  },
+  {
+    "key": "CrypPro",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/cryppro.png",
+    "name": "CrypPro"
+  },
+  {
+    "key": "DVChain",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/DVChain.png",
+    "name": "DVChain"
+  },
+  {
+    "key": "LinkForth",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/link-forth.png",
+    "name": "LinkForth"
+  },
+  {
+    "key": "Manifold",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/manifold.png",
+    "name": "Manifold"
+  },
+  {
+    "key": "MNNC",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/MNNC.png",
+    "name": "MNNC"
   }
 ]
