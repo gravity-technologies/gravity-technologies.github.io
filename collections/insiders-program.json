@@ -1,0 +1,59 @@
+[
+  {
+    "name": "GRVT global promoters",
+    "desc": "Global Promoters are GRVT's VIP ambassadors, sharing all about GRVT to their communities to expand our global reach.",
+    "requirement": [
+      "At least 30K followers on any social channel (Limited monthly spot available)"
+    ],
+    "rewards": [
+      "Weekly limit of 35 invite codes",
+      "Bonus raffles tickets for zkSync Mystery Box",
+      "Exclusive referral benefits"
+    ],
+    "avatar": "https://gravity-technologies.github.io/images/insiders-program/global-promoters.svg",
+    "link": "https://form.jotform.com/240082456297056"
+  },
+  {
+    "name": "GRVT creators",
+    "desc": "GRVT Creators partner with our marketing team to produce diverse, multilingual content, such as blogs, videos, and social media posts, centered around GRVT products and trading.",
+    "requirement": [
+      "Share your knowledge about GRVT",
+      "Share a sample content that you created about GRVT"
+    ],
+    "rewards": [
+      "Weekly limit of 20 invite codes",
+      "Bonus raffles tickets for zkSync Mystery Box"
+    ],
+    "avatar": "https://gravity-technologies.github.io/images/insiders-program/creators.svg",
+    "link": "https://form.jotform.com/240083648026050"
+  },
+  {
+    "name": "GRVT business developers",
+    "desc": "If you have valuable connections with Key Opinion Leaders (KOLs), Influencers, or Power Traders, you can refer them to GRVT and earn benefits.",
+    "requirement": [
+      "Anyone with existing relationships with KOLs or Power Traders",
+      "Share about your largest and closest KOLs and Power Traders"
+    ],
+    "rewards": [
+      "Weekly limit of 35 invite codes",
+      "Bonus raffles tickets for zkSync Mystery Box",
+      "Exclusive referral benefits"
+    ],
+    "avatar": "https://gravity-technologies.github.io/images/insiders-program/business-developers.svg",
+    "link": "https://form.jotform.com/240083606259052"
+  },
+  {
+    "name": "GRVT community ambassadors",
+    "desc": "Join as a GRVT Community Ambassador to lead our Discord and social media platforms, engaging the community and amplifying GRVT's reach in collaboration with our marketing team.",
+    "requirement": [
+      "Submit ideas about discord or social media strategies",
+      "And share what you know about GRVT"
+    ],
+    "rewards": [
+      "Weekly limit of 20 invite codes",
+      "Bonus raffles tickets for zkSync Mystery Box"
+    ],
+    "avatar": "https://gravity-technologies.github.io/images/insiders-program/community-ambassadors.svg",
+    "link": "https://forms.gle/piWNfMyypbiC3EXJ7"
+  }
+]
