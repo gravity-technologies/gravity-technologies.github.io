@@ -1,0 +1,44 @@
+[
+  {
+    "active": true,
+    "time": "Dec 2023",
+    "content": [
+      {
+        "title": "Phase 1 Reward Program",
+        "decs": [
+          "Limited invite for waitlist",
+          "Launch point system",
+          "zkSync mystery box"
+        ]
+      },
+      {
+        "title": "Testnet Closed Alpha Launch",
+        "decs": [
+          "WalletConnect Support"
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Q1 2024",
+    "content": [
+      {
+        "title": "Closed Beta Launch"
+      }
+    ]
+  },
+  {
+    "time": "2H 2024",
+    "content": [
+      {
+        "title": "Mainnet Open Beta"
+      },
+      {
+        "title": "Phase 2 Reward Program"
+      },
+      {
+        "title": "Product Enhancement (Q4 2024)"
+      }
+    ]
+  }
+]
