@@ -10,14 +10,19 @@
     "name": "Delphi Ventures"
   },
   {
-    "key": "ABCED",
-    "src": "https://gravity-technologies.github.io/images/partner-logos/ABCED.png",
-    "name": "ABCED"
-  },
-  {
     "key": "Matter Labs",
     "src": "https://gravity-technologies.github.io/images/partner-logos/matter-labs.png",
     "name": "Matter Labs"
+  },
+  {
+    "key": "Selini",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/selini.png",
+    "name": "Selini"
+  },
+  {
+    "key": "ABCED",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/ABCED.png",
+    "name": "ABCED"
   },
   {
     "key": "Folius Ventures",
@@ -60,9 +65,9 @@
     "name": "CMS"
   },
   {
-    "key": "APP WORKS",
-    "src": "https://gravity-technologies.github.io/images/partner-logos/app-works.png",
-    "name": "APP WORKS"
+    "key": "Manifold",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/manifold.png",
+    "name": "Manifold"
   },
   {
     "key": "FISHER 8",
@@ -75,9 +80,44 @@
     "name": "moonvault"
   },
   {
+    "key": "Antelpe Technology",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/antelpe-technology.png",
+    "name": "Antelpe Technology"
+  },
+  {
+    "key": "CrypPro",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/cryppro.png",
+    "name": "CrypPro"
+  },
+  {
+    "key": "DVChain",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/DVChain.png",
+    "name": "DVChain"
+  },
+  {
+    "key": "LinkForth",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/link-forth.png",
+    "name": "LinkForth"
+  },
+  {
+    "key": "MNNC",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/MNNC.png",
+    "name": "MNNC"
+  },
+  {
+    "key": "Vamient",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/vamient.png",
+    "name": "Vamient"
+  },
+  {
     "key": "ZERO AGE",
     "src": "https://gravity-technologies.github.io/images/partner-logos/zero-age.png",
     "name": "ZERO AGE"
+  },
+  {
+    "key": "APP WORKS",
+    "src": "https://gravity-technologies.github.io/images/partner-logos/app-works.png",
+    "name": "APP WORKS"
   },
   {
     "key": "C2",
@@ -141,40 +181,5 @@
     "style": {
       "filter": "grayscale(1)"
     }
-  },
-  {
-    "key": "Selini",
-    "src": "https://gravity-technologies.github.io/images/partner-logos/selini.png",
-    "name": "Selini"
-  },
-  {
-    "key": "Antelpe Technology",
-    "src": "https://gravity-technologies.github.io/images/partner-logos/antelpe-technology.png",
-    "name": "Antelpe Technology"
-  },
-  {
-    "key": "CrypPro",
-    "src": "https://gravity-technologies.github.io/images/partner-logos/cryppro.png",
-    "name": "CrypPro"
-  },
-  {
-    "key": "DVChain",
-    "src": "https://gravity-technologies.github.io/images/partner-logos/DVChain.png",
-    "name": "DVChain"
-  },
-  {
-    "key": "LinkForth",
-    "src": "https://gravity-technologies.github.io/images/partner-logos/link-forth.png",
-    "name": "LinkForth"
-  },
-  {
-    "key": "Manifold",
-    "src": "https://gravity-technologies.github.io/images/partner-logos/manifold.png",
-    "name": "Manifold"
-  },
-  {
-    "key": "MNNC",
-    "src": "https://gravity-technologies.github.io/images/partner-logos/MNNC.png",
-    "name": "MNNC"
   }
 ]
