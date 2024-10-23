@@ -1,15 +1,15 @@
 {
-  "h1": "GRVT Wallet",
+  "h1": "GRVT SecureKey",
   "h2": "Your Biometric-enabled Wallet on GRVT Network",
   "h3": "The GRVT wallet, secured by Dfns, is built on the WebAuthn protocol that allows the use of passkeys for authentication. Passkeys are private keys that can be stored in various authenticators, ranging from secure enclaves in computers and phones to Yubikeys and other standard Universal 2nd Factor (U2F) hardware.",
   "feat1": [
     {
-      "title": "Streamlined biometric signatures",
-      "desc": "Signing transactions with a passkey is easy: one-step signatures using Face ID or Touch ID; no passwords needed."
+      "title": "100% self-custodial",
+      "desc": "Secure and immutable way to keep your funds safe. Only you can sign your own transactions; GRVT stores only public keys."
     },
     {
-      "title": "100% Self Custodial",
-      "desc": "Only you can sign your own transactions since GRVT stores only public keys."
+      "title": "Streamlined biometric signatures",
+      "desc": "Signing transactions with a passkey is easy: one-step signatures using Face ID or Touch ID; no passwords needed."
     },
     {
       "title": "Top-level security",
@@ -24,22 +24,22 @@
     },
     {
       "title": "Secure with multiple devices",
-      "desc": "Secure your GRVT Wallet with passkeys from multiple devices, ensuring uninterrupted access to your funds.",
+      "desc": "Secure your GRVT SecureKey with passkeys from multiple devices, ensuring uninterrupted access to your funds.",
       "icon": "https://gravity-technologies.github.io/images/about-wallet/secure-with-multiple-devices.svg"
     },
     {
       "title": "Supports recovery",
-      "desc": "Generate Recovery Codes to register passkeys on a new device if you lose access to the old ones associated with your GRVT wallet.",
+      "desc": "Generate Recovery Codes to register passkeys on a new device if you lose access to the old ones associated with your GRVT SecureKey.",
       "icon": "https://gravity-technologies.github.io/images/about-wallet/supports-recovery.svg"
     },
     {
       "title": "Web3 security on a Web2 experience",
-      "desc": "Onboarding is a secure, straightforward one step process. Create your GRVT wallet. Access easily with passkeys from any device.",
+      "desc": "Onboarding is a secure, straightforward one step process. Create your GRVT SecureKey. Access easily with passkeys from any device.",
       "icon": "https://gravity-technologies.github.io/images/about-wallet/web3-security.svg"
     },
     {
       "title": "Tailored for all",
-      "desc": "GRVT Wallet makes Web3 easy for all experience levels. It's designed for user convenience so you can focus on your trading.",
+      "desc": "GRVT SecureKey makes Web3 easy for all experience levels. It's designed for user convenience so you can focus on your trading.",
       "icon": "https://gravity-technologies.github.io/images/about-wallet/tailored-for-all.svg"
     }
   ]
