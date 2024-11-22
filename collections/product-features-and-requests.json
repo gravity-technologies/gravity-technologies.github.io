@@ -1,0 +1,103 @@
+{
+  "title": "Product Features & Requests",
+  "subTitle": "See what's upcoming on GRVT and shape what's next",
+  "lastUpdated": "22/11/2024",
+  "data": [
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
+      "title": "Performance page",
+      "description": "Gain insights into your trading activities with a detailed view of trading performance and profit & loss (PNL).",
+      "category": "Account",
+      "status": "In progress"
+    },
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
+      "title": "Advanced Trading Tools",
+      "description": "Access sophisticated tools such as target price, stop loss, TWAP (Time-Weighted Average Price), VWAP (Volume-Weighted Average Price), and trailing stop for precise trade management.",
+      "category": "Trading",
+      "status": "In progress"
+    },
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
+      "title": "Expand Cross-chain Deposits",
+      "description": "Support for multi-chain deposits, expanding compatibility with cross-chain providers like Squid.",
+      "category": "Deposit/Withdrawal",
+      "status": "In progress"
+    },
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
+      "title": "Cross-Chain Withdrawals",
+      "description": "Easily withdraw funds across multiple supported blockchain networks.",
+      "category": "Deposit/Withdrawal",
+      "status": "In progress"
+    },
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
+      "title": "Unified Margin System",
+      "description": "Trade with multi-coin margining to maximize flexibility and optimize asset usage.",
+      "category": "Trading",
+      "status": "Planned"
+    },
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
+      "title": "Partial Liquidation Mechanism",
+      "description": "Protect positions with partial liquidation, reducing exposure before initiating full liquidation.",
+      "category": "Trading",
+      "status": "Planned"
+    },
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
+      "title": "Onramp Integration",
+      "description": "Effortlessly convert fiat to crypto with integrated onramp providers such as Alchemy and Banxa.",
+      "category": "Deposit/Withdrawal",
+      "status": "In progress"
+    },
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
+      "title": "Isolated Margin Accounts",
+      "description": "Manage risk on a per-product basis with isolated margin, protecting specific positions independently.",
+      "category": "Trading",
+      "status": "In progress"
+    },
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
+      "title": "Email Update Options",
+      "description": "Easily change or update the email address associated with your account for seamless access.",
+      "category": "Account",
+      "status": "In progress"
+    },
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
+      "title": "In-App Push Notifications",
+      "description": "Stay updated with real-time notifications directly within the app.",
+      "category": "Account",
+      "status": "In progress"
+    },
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
+      "title": "Estimated Liquidation Price Visualization",
+      "description": "Track and visualize the estimated liquidation price for each open position.",
+      "category": "Trading",
+      "status": "In progress"
+    },
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
+      "title": "GRVT Vault",
+      "description": "Invest anything and everything trustlessly.",
+      "category": "Vault",
+      "status": "In progress"
+    }
+  ]
+}
