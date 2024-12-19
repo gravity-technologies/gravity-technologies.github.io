@@ -6,6 +6,14 @@
     {
       "proposer": "GRVT",
       "proposerType": "GRVT",
+      "title": "Configurable leverage",
+      "description": "Customize your leverage beyond the default 50x for a tailored trading experience.",
+      "category": "Trading",
+      "status": "In progress"
+    },
+    {
+      "proposer": "GRVT",
+      "proposerType": "GRVT",
       "title": "Performance page",
       "description": "Gain insights into your trading activities with a detailed view of trading performance and profit & loss (PNL).",
       "category": "Account",
