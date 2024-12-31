@@ -30,16 +30,16 @@
     {
       "proposer": "GRVT",
       "proposerType": "GRVT",
-      "title": "Expand Cross-chain Deposits",
-      "description": "Support for multi-chain deposits, expanding compatibility with cross-chain providers like Squid.",
+      "title": "Cross-chain Deposits",
+      "description": "Enable multi chain deposits via Arbitrum when depositing from connected wallet.",
       "category": "Deposit/Withdrawal",
       "status": "In progress"
     },
     {
       "proposer": "GRVT",
       "proposerType": "GRVT",
-      "title": "Cross-Chain Withdrawals",
-      "description": "Easily withdraw funds across multiple supported blockchain networks.",
+      "title": "Cross-chain Withdrawals",
+      "description": "Easily withdraw funds across multiple supported blockchains, including Arbitrum network.",
       "category": "Deposit/Withdrawal",
       "status": "In progress"
     },
@@ -62,8 +62,8 @@
     {
       "proposer": "GRVT",
       "proposerType": "GRVT",
-      "title": "Onramp Integration",
-      "description": "Effortlessly convert fiat to crypto with integrated onramp providers such as Alchemy and Banxa.",
+      "title": "Fiat-to-Crypto",
+      "description": "Buy crypto effortlessly with integrated onramp providers.",
       "category": "Deposit/Withdrawal",
       "status": "In progress"
     },
