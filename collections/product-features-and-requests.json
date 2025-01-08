@@ -1,7 +1,7 @@
 {
   "title": "Product Features & Requests",
   "subTitle": "See what's upcoming on GRVT and shape what's next",
-  "lastUpdated": "22/11/2024",
+  "lastUpdated": "07/01/2025",
   "data": [
     {
       "proposer": "GRVT",
@@ -33,7 +33,7 @@
       "title": "Cross-chain Deposits",
       "description": "Enable multi chain deposits via Arbitrum when depositing from connected wallet.",
       "category": "Deposit/Withdrawal",
-      "status": "In progress"
+      "status": "Delivered"
     },
     {
       "proposer": "GRVT",
