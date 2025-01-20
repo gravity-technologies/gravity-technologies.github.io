@@ -9,7 +9,7 @@
       "title": "Configurable leverage",
       "description": "Customize your leverage beyond the default 50x for a tailored trading experience.",
       "category": "Trading",
-      "status": "In progress"
+      "status": "Delivered"
     },
     {
       "proposer": "GRVT",
@@ -97,7 +97,7 @@
       "title": "Estimated Liquidation Price Visualization",
       "description": "Track and visualize the estimated liquidation price for each open position.",
       "category": "Trading",
-      "status": "In progress"
+      "status": "Delivered"
     },
     {
       "proposer": "GRVT",
